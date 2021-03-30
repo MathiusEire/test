@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59597b34-ce12-4d8b-a18a-c663666ab6cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1q2PeHErNn9Obg6HyJvDDX7Mq0i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59597b34-ce12-4d8b-a18a-c663666ab6cd" name="Default Changelist" comment="" />
+      <created>1616274804693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616274804693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1616424965764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1920.-214.1920.1040/1920.-391.1200.1880@0.0.1920.1040" timestamp="1616424965764" />
+    <state x="360" y="120" width="1200" height="800" key="AVDManager" timestamp="1616439116415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="360" y="120" width="1200" height="800" key="AVDManager/0.0.1920.1040/-1920.-214.1920.1040/1920.-391.1200.1880@0.0.1920.1040" timestamp="1616439116415" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1616426343595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.-214.1920.1040/1920.-391.1200.1880@0.0.1920.1040" timestamp="1616426343595" />
+    <state x="601" y="250" width="700" height="530" key="recent.locations.popup" timestamp="1616438052270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="250" width="700" height="530" key="recent.locations.popup/0.0.1920.1040/-1920.-214.1920.1040/1920.-391.1200.1880@0.0.1920.1040" timestamp="1616438052270" />
+  </component>
+</project>
